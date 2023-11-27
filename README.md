@@ -25,4 +25,5 @@
 
 ## 如何贡献
 
-如果您想要贡献该项目，欢迎通过Pull Requests或Issues提出您的建议。
+如果您想要贡献该项目，欢迎通过Pull Requests或Issues提出您的建议。  
+如果觉得写.md，提PR太麻烦，可以wx联系我：**cascading** 申请语雀编辑权限，我有空就跟进更新：[语雀文档：CS留学](https://www.yuque.com/cascading/ly7p4a)
