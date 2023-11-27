@@ -8,9 +8,9 @@
 
 #### 八大名校
 
-- [莫纳什大学](https://github.com/Trade-Offf/CS-studyAbroad/blob/main/澳洲/莫纳什大学.md)
+- [Monash](https://github.com/Trade-Offf/CS-studyAbroad/blob/main/%E6%BE%B3%E6%B4%B2/Monash.md)
 
-#### 其他知名大学
+#### 其他大学
 
 - [待添加](#)
 
