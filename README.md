@@ -16,7 +16,8 @@
 ## 目录
 
 ### 澳洲留学资源
-- [Monash](https://github.com/Trade-Offf/CS-studyAbroad/blob/main/%E6%BE%B3%E6%B4%B2/Monash.md) ：虽是八大，但入学真不严格
+- [Monash](https://github.com/Trade-Offf/CS-studyAbroad/blob/main/%E6%BE%B3%E6%B4%B2/Monash.md) ：八大 | 但入学门槛不苛刻
+- [Wollongong](https://github.com/Trade-Offf/CS-studyAbroad/blob/main/%E6%BE%B3%E6%B4%B2/Wollongong.md) ：非八大 | 俗称卧龙岗大学，计算机强校
 - 待添加
 
 ### 加拿大留学资源
