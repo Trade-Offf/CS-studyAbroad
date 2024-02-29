@@ -13,13 +13,13 @@
 
 ## 成本
 ### 学费 + 生活费
-1. 学费按照 $45000 算
+1. 学费按照 $45000 AUD 算
 2. 生活费根据官方内容计算
-   - 每周 $900
-   - 每月 $3600
-   - 每年 $43200
+   - 每周 $900 AUD
+   - 每月 $3600 AUD
+   - 每年 $43200 AUD
    
-共计：$88200/年，约 41 万人民币，两年差不多 80 万；
+共计：$88200 AUD/年，约 41 万RMB，两年差不多 80 万RMB；
 
 <img src="https://raw.githubusercontent.com/Trade-Offf/PictureBed/main/imgs/%E8%8E%AB%E7%BA%B3%E4%BB%80CS-2023.png?token=AFLLZZLDM42OTZFBUKUEKKDFMBCA6" alt="Monash CS 2023" width="800"/>
 <img src="https://raw.githubusercontent.com/Trade-Offf/PictureBed/main/imgs/%E8%8E%AB%E7%BA%B3%E4%BB%80Cost-2023.png?token=AFLLZZK5O5CKAUOQITVTL4LFMBCCW" alt="Monash Cost 2023" width="800"/>
@@ -29,16 +29,16 @@
 
 ### Monash International Leadership Scholarship
 - **奖学金金额**：100%学费
-- **名额**：每年仅4个
+- **名额**：每年仅 4 个
 - **难度**：很大
 
 ### Monash University International Merit Scholarship
-- **奖学金金额**：10K澳元
-- **名额**：每年31个
+- **奖学金金额**：$10K AUD
+- **名额**：每年 31 个
 - **难度**：适中
 
 ### MRS Queer Leadership Scholarship
-- **奖学金金额**：2K - 4K澳元
+- **奖学金金额**：$2K - $4K AUD
 - **特点**：针对多元化群体
 - **适用对象**：根据个人情况申请
 
